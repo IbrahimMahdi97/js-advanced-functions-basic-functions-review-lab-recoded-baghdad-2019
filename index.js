@@ -25,5 +25,5 @@ function actionApplyer(start, arr=false){
     return start;
   } else {
     return 4
-  } 
+  }
 }
